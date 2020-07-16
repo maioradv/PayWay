@@ -1,5 +1,5 @@
 <?php
 
-namespace PayWay\Exception;
+namespace BCCPayWay\Exception;
 
 class IgfsException extends \Exception { }

@@ -1,6 +1,6 @@
 <?php
 
-namespace PayWay\Level3Info;
+namespace BCCPayWay\Level3Info;
 
 class Product {
 	

@@ -1,9 +1,9 @@
 <?php
 
-namespace PayWay\tran;
+namespace BCCPayWay\tran;
 
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use BCCPayWay\Exception\IgfsMissingParException;
+use BCCPayWay\IgfsUtils;
 
 class IgfsCgCredit extends BaseIgfsCgTran {
 	public $shopUserRef;

@@ -1,5 +1,5 @@
 <?php
 
-namespace PayWay\Exception;
+namespace BCCPayWay\Exception;
 
 class IgfsMissingParException extends \Exception { }

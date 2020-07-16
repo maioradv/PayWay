@@ -1,5 +1,5 @@
 <?php
-namespace PayWay\init;
+namespace BCCPayWay\init;
 
 
 class InitTerminalInfo {

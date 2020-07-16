@@ -1,6 +1,6 @@
 <?php
-namespace PayWay\init;
-use PayWay\IgfsUtils;
+namespace BCCPayWay\init;
+use BCCPayWay\IgfsUtils;
 
 class SelectorTerminalInfo {
 	

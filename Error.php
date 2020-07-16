@@ -1,6 +1,6 @@
 <?php
 
-namespace PayWay;
+namespace BCCPayWay;
 
 class Error {
 

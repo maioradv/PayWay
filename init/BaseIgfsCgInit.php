@@ -1,9 +1,9 @@
 <?php
 
-namespace PayWay\init;
+namespace BCCPayWay\init;
 
-use PayWay\BaseIgfsCg;
-use PayWay\Exception\IgfsMissingParException;
+use BCCPayWay\BaseIgfsCg;
+use BCCPayWay\Exception\IgfsMissingParException;
 
 abstract class BaseIgfsCgInit extends BaseIgfsCg {
 

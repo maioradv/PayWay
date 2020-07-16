@@ -1,6 +1,6 @@
 <?php
 
-namespace PayWay\Exception;
+namespace BCCPayWay\Exception;
 
 class ConnectionException extends IOException {
     public function __construct($url, $message) {

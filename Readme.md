@@ -14,7 +14,7 @@ Here a snippet on how to use it
 
 require __DIR__.'/vendor/autoload.php';
 
-use PayWay\init\IgfsCgInit;
+use BCCPayWay\init\IgfsCgInit;
 
  $init = new IgfsCgInit();
  //$init->disableCheckSSLCert();

@@ -1,5 +1,5 @@
 {
-    "name": "inalto/payway",
+    "name": "maioradv/payway",
     "description": "BCC PayWay Payment Gateway interface",
     "type": "library",
     "authors": [
@@ -9,7 +9,7 @@
         }
     ],
     "autoload": {
-        "psr-4": { "PayWay\\": "./" }
+        "psr-4": { "BCCPayWay\\": "./" }
     },
     "require": {},
     "minimum-stability": "dev",

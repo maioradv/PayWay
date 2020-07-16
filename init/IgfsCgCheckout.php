@@ -1,9 +1,9 @@
 <?php
 
-namespace PayWay\init;
+namespace BCCPayWay\init;
 
-use PayWay\Exception\IgfsMissingParException;
-use PayWay\IgfsUtils;
+use BCCPayWay\Exception\IgfsMissingParException;
+use BCCPayWay\IgfsUtils;
 
 
 class IgfsCgInitCheckOut extends BaseIgfsCgInit {
